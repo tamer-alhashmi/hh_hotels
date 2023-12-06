@@ -1,0 +1,174 @@
+{
+  "property": [
+    {
+      "name": "Number 19 Brighton",
+      "id": 2119,
+      "description": "101",
+      "location": "19 Russell Square,\nBrighton, BN1 2EE, United Kingdom",
+      "profilePicture": "assets/images/Russell/Russell_1.jpg",
+      "images": null,
+      "likeDislike": {
+        "likes": 0,
+        "dislikes": 0,
+        "userAction": 2
+      }
+    },
+    {
+      "name": "Modern studios Malvern Road",
+      "id": 2120,
+      "description": "We have a multicultural team that are always available to help. We are just a phone call or message away. Please feel free to contact us at anytime and we will make it work for you.",
+      "location": "171-173 Malvern Road,\nLondon, NW6 5PY, United Kingdom",
+      "profilePicture": "assets/images/Malvern/Malvern1.jpeg",
+      "images": null,
+      "likeDislike": {
+        "likes": 0,
+        "dislikes": 0,
+        "userAction": 2
+      }
+    },
+    {
+      "name": "Avalon Guest house",
+      "id": 2121,
+      "description": "We have a multicultural team that are always available to help.\n We are just a phone call, or a message away. \nPlease feel free to contact us at anytime \nand we will make it work for you.",
+      "location": "7 Upper Rock Gardens,\nBrighton, BN2 1QE, United Kingdom",
+      "profilePicture": "assets/images/Avalon/Avalon1.jpeg",
+      "images": null,
+      "likeDislike": {
+        "likes": 0,
+        "dislikes": 0,
+        "userAction": 2
+      }
+    },
+    {
+      "name": "Wembar Hotel",
+      "id": 2140,
+      "description": "Centrally Loacted just few minutes walk to Earls court underground station. \nAll the rooms benefits from ensuite bathroom. \nThere's loads of cafes and restaurants within 5 minutes walking distance.",
+      "location": "19 Warwick Road,\nLondon, SW5 9UL, United Kingdom",
+      "profilePicture": "assets/images/Wember/Wember1.jpeg",
+      "images": null,
+      "likeDislike": {
+        "likes": 0,
+        "dislikes": 0,
+        "userAction": 2
+      }
+    },
+    {
+      "name": "Tor Park Hotel",
+      "id": 2120,
+      "description": "Tor Park Hotel is an inviting hotel located in a \ntranquil suburban area of picturesque Torquay on the English Riviera. \nOur hotel offers a peaceful retreat for guests looking for a relaxing getaway, \nwhile also being within easy reach of local attractions and activities. \nAt the Tor Park Hotel, we pride ourselves on providing our guests with a comfortable and welcoming atmosphere. \nAlthough we do not have a bar, \nguests are welcome to bring their own alcohol",
+      "location": "24 Vansittart Road,\nTorquay, TQ2 5BW, United Kingdom",
+      "profilePicture": "assets/images/TorPark/TorPark1.jpeg",
+      "images": null,
+      "likeDislike": {
+        "likes": 0,
+        "dislikes": 0,
+        "userAction": 2
+      }
+    },
+    {
+      "name": "The Richmond Hotel",
+      "id": 2140,
+      "description": "Located in Torquay, The Richmond Hotel is near the beach. \nTorquay Golf Club and Dartmouth Steam Railway are worth checking out if an activity is on the agenda, \nwhile those looking for area attractions can visit Paignton Zoo and Babbacombe Model Village and Gardens. \nGreenway House and Garden and Golden Hind are also worth visiting.",
+      "location": "",
+      "profilePicture": "assets/images/Richmond/Richmond1.jpg",
+      "images": null,
+      "likeDislike": {
+        "likes": 5,
+        "dislikes": 0,
+        "userAction": 4
+      }
+    },
+    {
+      "name": "St Elmo Hotel",
+      "id": 2140,
+      "description": "Our friendly Blackpool Hotel is ideally situated just minutes from the promenade, opposite the South Pier and famous local attractions - Blackpool Pleasure Beach and Sandcastle are only a short walk away. All rooms en-suite, lift to all floors. The venue provides guestrooms appointed with multi-channel TV, a flat-screen TV with satellite channels and smoke detectors for a pleasant stay in Blackpool.\n\n",
+      "location": "20 Station Road,\nBlackpool, FY4 1BE, United Kingdom",
+      "profilePicture": "assets/images/Elmo/Elmo1.jpg",
+      "images": null,
+      "likeDislike": {
+        "likes": 3,
+        "dislikes": 0,
+        "userAction": 4
+      }
+    },
+    {
+      "name": "Orlando hotel",
+      "id": 2132,
+      "description": "Hotel Orlando is a small, friendly hotel, in Hammersmith, West London situated within walking distance to Hammersmith underground station, connected with 3 main underground lines, only 15 minutes away from Piccadilly and within easy reach to other tourist attraction and to Heathrow Airport.\n\n",
+      "location": "83 Shepherds Bush Road,\nLondon, W6 7LR, United Kingdom",
+      "profilePicture": "assets/images/Orlando/Orlando1.jpg",
+      "images": null,
+      "likeDislike": {
+        "likes": 7,
+        "dislikes": 0,
+        "userAction": 4
+      }
+    },
+    {
+      "name": "Holland Road Stays",
+      "id": 2142,
+      "description": "The 120 Holland Road offers accommodation in London’s Kensington district, just a 5-minute walk from Barons Court and West Kensington Tube stations. This property consists of 15 Self contained studios and offers free WiFi throughout.\n\n",
+      "location": "120 Holland Road,\nLondon, W14 8BD, United Kingdom",
+      "profilePicture": "assets/images/Holland/Holland1.jpeg",
+      "images": null,
+      "likeDislike": {
+        "likes": 7,
+        "dislikes": 0,
+        "userAction": 4
+      }
+    },
+    {
+      "name": "Green Gables Hotel",
+      "id": 2152,
+      "description": "Accommodations range from simply decorated rooms to low-key apartments. All rooms have en-suite bathrooms, tea and coffeemaking facilities, and flat-screen TVs. Apartments have full kitchens, living rooms and separate bathrooms.\n\n",
+      "location": "West Bank,\nScarborough , YO12 4DX, United Kingdom",
+      "profilePicture": "assets/images/GreenGables/GreenGables1.jpg",
+      "images": null,
+      "likeDislike": {
+        "likes": 6,
+        "dislikes": 0,
+        "userAction": 4
+      }
+    },
+    {
+      "name": "Crofton House Hotel",
+      "id": 2162,
+      "description": "Stay in the heart of Torquay Crofton House Hotel is exclusively . Set in an 1850's villa offering guests a choice of 16 suites and rooms, all with flat-screen TV with multiple Free view channels, complimentary tea, coffee, eco-friendly toiletries and Wi-Fi. There is private and street parking. Guests have repeatedly highly rated Crofton House for value and quality of service.\n\n",
+      "location": "17 Croft Road,\nTorquay, TQ2 5TZ, United Kingdom",
+      "profilePicture": "assets/images/Crofton/Crofton1.jpg",
+      "images": null,
+      "likeDislike": {
+        "likes": 4,
+        "dislikes": 0,
+        "userAction": 7
+      }
+    },
+    {
+      "name": "Bonair Hotel",
+      "id": 2172,
+      "description": "The Hotel Bonair is a friendly family hotel, With accommodation for approximately 70 people making it an ideal choice for families and individuals alike, to whom we offer an outstanding holiday. It is ideally situated on the level on Paignton Sea Front, and is within walking distance to all the local amenities.\n\n",
+      "location": "35 Esplanade Road,\nPaignton, TQ4 6BL, United Kingdom",
+      "profilePicture": "assets/images/Bonair/Bonair1.png",
+      "images": null,
+      "likeDislike": {
+        "likes": 0,
+        "dislikes": 0,
+        "userAction": 2
+      }
+    },
+    {
+      "name": "Alumhurst Hotel",
+      "id": 2182,
+      "description": "Alumhurst Hotel is located just over 5 minutes’ walk from Blackpool’s seafront, the tower and Central Pier. It offers en suite rooms. Each room at Alumhurst Hotel has modern décor, a TV and tea and coffee-making facilities.\n\n",
+      "location": "13-15 Charnley Road,\nBlackpool, FY1 4PE, United Kingdom",
+      "profilePicture": "assets/images/Alumhurst/Alumhurst1.png",
+      "images": null,
+      "likeDislike": {
+        "likes": 0,
+        "dislikes": 0,
+        "userAction": 2
+      }
+    }
+
+  ]
+}
