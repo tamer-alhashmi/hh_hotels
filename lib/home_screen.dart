@@ -38,22 +38,23 @@ class _HomeScreenState extends State<HomeScreen> {
               final description = hotel.description;
               final profilePicture = hotel.profilePicture;
               // final manned = hotel.reception == "manned" ? Colors.teal : Colors.tealAccent;
-              return Container(
-                margin: const EdgeInsets.all(10),
-                decoration:  BoxDecoration(
-                  borderRadius: BorderRadius.circular(10),
-                  color: Colors.lightBlueAccent,
-                ),
-                child: ListTile(
+              return Column(
+                children: [ListTile(
                   leading: ClipRRect(
                       borderRadius: BorderRadius.circular(100),
-                      child: Image.asset(profilePicture)),
+                      child: Image.asset(profilePicture)
+                      ),
                   title: Text(name),
                   // tileColor: manned,
                   subtitle: Text(location),
                 ),
-
-              );
+                Container(
+                  margin: const EdgeInsets.all(10),
+                  padding: const EdgeInsets.all(10),
+                  color: Colors.yellow,
+                  child: Text(description)),
+                  ],
+                );
             }),
 
         // floatingActionButton: FloatingActionButton(

@@ -8,7 +8,7 @@ import '../model/hotel.dart';
 class HotelsApi {
 
   static Future<List<Hotel>> fetchHotel() async {
-    // print('fetchHotel Called');
+    print('fetchHotel Called');
     const url =
         'https://raw.githubusercontent.com/tamer-alhashmi/Json_Data_Files_Example/main/hotelsproperties.json';
     final uri = Uri.parse(url);
@@ -34,6 +34,7 @@ class HotelsApi {
     return hotels;
 
 
-    // print('FetchUser Completed');
+    // ignore: dead_code
+    print('FetchUser Completed');
   }
 }
