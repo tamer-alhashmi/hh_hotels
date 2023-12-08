@@ -58,7 +58,7 @@ class _HomeScreenState extends State<HomeScreen> {
             }),
 
         // floatingActionButton: FloatingActionButton(
-        //   onPressed: fetchUsers,
+        //   onPressed: fetchHotel,
         //   backgroundColor: Colors.teal, // Set the background color
         //   foregroundColor: Colors.white, // Set the icon color
         //   elevation: 5.0,

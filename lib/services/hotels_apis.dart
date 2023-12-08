@@ -10,7 +10,7 @@ class HotelsApi {
   static Future<List<Hotel>> fetchHotel() async {
     print('fetchHotel Called');
     const url =
-        'https://raw.githubusercontent.com/tamer-alhashmi/Json_Data_Files_Example/main/hotelsproperties.json';
+        'https://raw.githubusercontent.com/tamer-alhashmi/hh_hotels/master/JasonFiles/properties.json';
     final uri = Uri.parse(url);
     final response = await http.get(uri);
     final body = response.body;
