@@ -7,9 +7,8 @@
       "location": "19 Russell Square,\nBrighton, BN1 2EE, United Kingdom",
       "profilePicture": "assets/images/Russell/Russell_1.jpg",
       "images": null,
-      "categories": 
-        {
-          "Deluxe-Double room-Ensuite": {
+      "categories": {
+        "Deluxe-Double room-Ensuite": {
             "categorydescreption": "Deluxe-Double room-Ensuite has an En-Suite bathroom with towels and toiletries, a TV, and tea and coffee facilities. Keys are provided allowing access to the guest house at all times. also, Free WiFi is Available in all rooms and Public Areas.",
             "roomsize": "15/MSQ, 161/FTSQ",
             "amenities": [
@@ -36,9 +35,8 @@
               "Free Toiletries",
               "Towels",
               "ToiletPaper and soap",
-              "Hot water"
-            
-            ],
+              "Hot water"]
+            },
           "Family room-Deluxe-Ensuite-with kitchenette": {
             "categorydescreption": "Family room-Deluxe-Ensuite-with kitchenette, Has an En-Suite bathroom with towels and toiletries, a TV and tea and coffee facilities. Keys are provided allowing access to the guest house at all times. also a Free WiFi is Available in all rooms and Public Areas.",
             "roomsize": "25/MSQ, 269/FTSQ",
@@ -153,7 +151,6 @@
               "Hot water"
             ]
           }
-        }
     },
       "likeDislike": {
         "likes": 2,
@@ -488,7 +485,7 @@
       "location": "19 Warwick Road,\nLondon, SW5 9UL, United Kingdom",
       "profilePicture": "assets/images/Russell/Russell_1.jpg",
       "images": null,
-      "categories": [
+      "categories": 
         {
           "Deluxe-Double room-Ensuite": {
             "categorydescreption": "Deluxe-Double room-Ensuite has an En-Suite bathroom with towels and toiletries, a TV, and tea and coffee facilities. Keys are provided allowing access to the guest house at all times. also, Free WiFi is Available in all rooms and Public Areas.",
@@ -635,7 +632,7 @@
             ]
           }
         }
-      ],
+      ,
       "likeDislike": {
         "likes": 2,
         "dislikes": 1,
@@ -649,7 +646,7 @@
       "location": "24 Vansittart Road,\nTorquay, TQ2 5BW, United Kingdom",
       "profilePicture": "assets/images/TorPark/TorPark1.jpeg",
       "images": null,
-      "categories": [
+      "categories": 
         {
           "Deluxe-Double room-Ensuite": {
             "categorydescreption": "Deluxe-Double room-Ensuite has an En-Suite bathroom with towels and toiletries, a TV, and tea and coffee facilities. Keys are provided allowing access to the guest house at all times. also, Free WiFi is Available in all rooms and Public Areas.",
@@ -796,7 +793,7 @@
             ]
           }
         }
-      ],
+      ,
       "likeDislike": {
         "likes": 2,
         "dislikes": 1,
@@ -810,7 +807,7 @@
       "location": "27 Croft Road,Torquay, TQ2 5UD, United Kingdom",
       "profilePicture": "assets/images/Richmond/Richmond1.jpg",
       "images": null,
-      "categories": [
+      "categories": 
         {
           "Deluxe-Double room-Ensuite": {
             "categorydescreption": "Deluxe-Double room-Ensuite has an En-Suite bathroom with towels and toiletries, a TV, and tea and coffee facilities. Keys are provided allowing access to the guest house at all times. also, Free WiFi is Available in all rooms and Public Areas.",
@@ -957,7 +954,7 @@
             ]
           }
         }
-      ],
+      ,
       "likeDislike": {
         "likes": 2,
         "dislikes": 1,
@@ -971,7 +968,7 @@
       "location": "20 Station Road,\nBlackpool, FY4 1BE, United Kingdom",
       "profilePicture": "assets/images/Elmo/Elmo1.jpg",
       "images": null,
-      "categories": [
+      "categories": 
         {
           "Deluxe-Double room-Ensuite": {
             "categorydescreption": "Deluxe-Double room-Ensuite has an En-Suite bathroom with towels and toiletries, a TV, and tea and coffee facilities. Keys are provided allowing access to the guest house at all times. also, Free WiFi is Available in all rooms and Public Areas.",
@@ -1118,7 +1115,7 @@
             ]
           }
         }
-      ],
+      ,
       "likeDislike": {
         "likes": 2,
         "dislikes": 1,
@@ -1132,7 +1129,7 @@
       "location": "83 Shepherds Bush Road,\nLondon, W6 7LR, United Kingdom",
       "profilePicture": "assets/images/Orlando/Orlando1.jpg",
       "images": null,
-      "categories": [
+      "categories": 
         {
           "Deluxe-Double room-Ensuite": {
             "categorydescreption": "Deluxe-Double room-Ensuite has an En-Suite bathroom with towels and toiletries, a TV, and tea and coffee facilities. Keys are provided allowing access to the guest house at all times. also, Free WiFi is Available in all rooms and Public Areas.",
@@ -1279,7 +1276,7 @@
             ]
           }
         }
-      ],
+      ,
       "likeDislike": {
         "likes": 2,
         "dislikes": 1,
@@ -1293,7 +1290,7 @@
       "location": "120 Holland Road,\nLondon, W14 8BD, United Kingdom",
       "profilePicture": "assets/images/Holland/Holland1.jpg",
       "images": null,
-      "categories": [
+      "categories": 
         {
           "Deluxe-Double room-Ensuite": {
             "categorydescreption": "Deluxe-Double room-Ensuite has an En-Suite bathroom with towels and toiletries, a TV, and tea and coffee facilities. Keys are provided allowing access to the guest house at all times. also, Free WiFi is Available in all rooms and Public Areas.",
@@ -1440,7 +1437,7 @@
             ]
           }
         }
-      ],
+      ,
       "likeDislike": {
         "likes": 2,
         "dislikes": 1,
@@ -1454,7 +1451,7 @@
       "location": "West Bank,\nScarborough , YO12 4DX, United Kingdom",
       "profilePicture": "assets/images/GreenGables/GreenGables1.jpg",
       "images": null,
-      "categories": [
+      "categories": 
         {
           "Deluxe-Double room-Ensuite": {
             "categorydescreption": "Deluxe-Double room-Ensuite has an En-Suite bathroom with towels and toiletries, a TV, and tea and coffee facilities. Keys are provided allowing access to the guest house at all times. also, Free WiFi is Available in all rooms and Public Areas.",
@@ -1600,8 +1597,7 @@
               "Hot water"
             ]
           }
-        }
-      ],
+        },
       "likeDislike": {
         "likes": 2,
         "dislikes": 1,
@@ -1615,7 +1611,7 @@
       "location": "17 Croft Road,\nTorquay, TQ2 5TZ, United Kingdom",
       "profilePicture": "assets/images/Crofton/Crofton1.jpg",
       "images": null,
-      "categories": [
+      "categories": 
         {
           "Deluxe-Double room-Ensuite": {
             "categorydescreption": "Deluxe-Double room-Ensuite has an En-Suite bathroom with towels and toiletries, a TV, and tea and coffee facilities. Keys are provided allowing access to the guest house at all times. also, Free WiFi is Available in all rooms and Public Areas.",
@@ -1762,7 +1758,7 @@
             ]
           }
         }
-      ],
+      ,
       "likeDislike": {
         "likes": 2,
         "dislikes": 1,
@@ -1776,7 +1772,7 @@
       "location": "35 Esplanade Road,\nPaignton, TQ4 6BL, United Kingdom",
       "profilePicture": "assets/images/Bonair/Bonair1.png",
       "images": null,
-      "categories": [
+      "categories": 
         {
           "Deluxe-Double room-Ensuite": {
             "categorydescreption": "Deluxe-Double room-Ensuite has an En-Suite bathroom with towels and toiletries, a TV, and tea and coffee facilities. Keys are provided allowing access to the guest house at all times. also, Free WiFi is Available in all rooms and Public Areas.",
@@ -1923,7 +1919,7 @@
             ]
           }
         }
-      ],
+      ,
       "likeDislike": {
         "likes": 2,
         "dislikes": 1,
@@ -1937,7 +1933,7 @@
       "location": "13-15 Charnley Road,\nBlackpool, FY1 4PE, United Kingdom",
       "profilePicture": "assets/images/Alumhurst/Alumhurst1.png",
       "images": null,
-      "categories": [
+      "categories": 
         {
           "Deluxe-Double room-Ensuite": {
             "categorydescreption": "Deluxe-Double room-Ensuite has an En-Suite bathroom with towels and toiletries, a TV, and tea and coffee facilities. Keys are provided allowing access to the guest house at all times. also, Free WiFi is Available in all rooms and Public Areas.",
@@ -2084,7 +2080,7 @@
             ]
           }
         }
-      ],
+      ,
       "likeDislike": {
         "likes": 2,
         "dislikes": 1,
