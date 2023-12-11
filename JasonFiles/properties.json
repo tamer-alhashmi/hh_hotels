@@ -8,7 +8,7 @@
       "location": "19 Russell Square,\nBrighton, BN1 2EE, United Kingdom",
       "profilePicture": "assets/images/Russell/Russell_1.jpg",
       "images": null,
-      "categories": [
+      "categories": 
         {
           "Deluxe-Double room-Ensuite": {
             "categorydescreption": "Deluxe-Double room-Ensuite has an En-Suite bathroom with towels and toiletries, a TV, and tea and coffee facilities. Keys are provided allowing access to the guest house at all times. also, Free WiFi is Available in all rooms and Public Areas.",
@@ -38,12 +38,12 @@
               "Towels",
               "ToiletPaper and soap",
               "Hot water"
-            ]
+            
           },
           "Family room-Deluxe-Ensuite-with kitchenette": {
             "categorydescreption": "Family room-Deluxe-Ensuite-with kitchenette, Has an En-Suite bathroom with towels and toiletries, a TV and tea and coffee facilities. Keys are provided allowing access to the guest house at all times. also a Free WiFi is Available in all rooms and Public Areas.",
             "roomsize": "25/MSQ, 269/FTSQ",
-            "amenities": [
+            "amenities": {
               "Free WiFi Internet",
               "Non-smoking",
               "Freeview TV",
@@ -68,12 +68,12 @@
               "Towels",
               "ToiletPaper and soap",
               "Hot water"
-            ]
+            }
           },
           "Triple room-Deluxe-Ensuite": {
             "categorydescreption": "Triple room-Deluxe-Ensuite, Has an En-Suite bathroom with towels and toiletries, a TV, and tea and coffee facilities. Keys are provided allowing access to the guest house at all times. also a Free WiFi is Available in all rooms and Public Areas.",
             "roomsize": "20/MSQ, 215/FTSQ",
-            "amenities": [
+            "amenities": {
               "Free WiFi Internet",
               "Non-smoking",
               "Freeview TV",
@@ -98,12 +98,12 @@
               "Towels",
               "ToiletPaper and soap",
               "Hot water"
-            ]
+            }
           },
           "Standard-Double room-Ensuite": {
             "categorydescreption": "Enjoy easy access to popular shops and restaurants from this charming & centered place to stay, Very Close To the Beach. Standard-Double room-en-suite, Has an En-Suite bathroom with towels and toiletries, a TV and tea and coffee facilities. Keys are provided allowing access to the guest house at all times.…",
             "roomsize": "11/MSQ, 118/FTSQ",
-            "amenities": [
+            "amenities": {
               "Free WiFi Internet",
               "Non-smoking",
               "Freeview TV",
@@ -125,12 +125,12 @@
               "Towels",
               "ToiletPaper and soap",
               "Hot water"
-            ]
+            }
           },
           "Twin room-Standard-Ensuite": {
             "categorydescreption": "Standard-Twin room-Ensuite, Has an En-Suite bathroom with towels and toiletries, a TV and tea and coffee facilities. Keys are provided allowing access to the guest house at all times. also, Free WiFi is Available in all rooms and Public Areas.",
             "roomsize": "13/MSQ, 140/FTSQ",
-            "amenities": [
+            "amenities": {
               "Free WiFi Internet",
               "Non-smoking",
               "Freeview TV",
@@ -152,10 +152,10 @@
               "Towels",
               "ToiletPaper and soap",
               "Hot water"
-            ]
+            }
           }
         }
-      ],
+    },
       "likeDislike": {
         "likes": 2,
         "dislikes": 1,
@@ -170,12 +170,12 @@
       "location": "171-173 Malvern Road,\nLondon, NW6 5PY, United Kingdom",
       "profilePicture": "assets/images/Malvern/Malvern1.jpg",
       "images": null,
-      "categories": [
+      "categories": 
         {
           "Deluxe-Double room-Ensuite": {
             "categorydescreption": "Deluxe-Double room-Ensuite has an En-Suite bathroom with towels and toiletries, a TV, and tea and coffee facilities. Keys are provided allowing access to the guest house at all times. also, Free WiFi is Available in all rooms and Public Areas.",
             "roomsize": "15/MSQ, 161/FTSQ",
-            "amenities": [
+            "amenities": {
               "Free WiFi Internet",
               "Non-smoking",
               "Freeview TV",
@@ -200,12 +200,12 @@
               "Towels",
               "ToiletPaper and soap",
               "Hot water"
-            ]
+              }
           },
           "Family room-Deluxe-Ensuite-with kitchenette": {
             "categorydescreption": "Family room-Deluxe-Ensuite-with kitchenette, Has an En-Suite bathroom with towels and toiletries, a TV and tea and coffee facilities. Keys are provided allowing access to the guest house at all times. also a Free WiFi is Available in all rooms and Public Areas.",
             "roomsize": "25/MSQ, 269/FTSQ",
-            "amenities": [
+            "amenities": {
               "Free WiFi Internet",
               "Non-smoking",
               "Freeview TV",
@@ -230,12 +230,12 @@
               "Towels",
               "ToiletPaper and soap",
               "Hot water"
-            ]
+              }
           },
           "Triple room-Deluxe-Ensuite": {
             "categorydescreption": "Triple room-Deluxe-Ensuite, Has an En-Suite bathroom with towels and toiletries, a TV, and tea and coffee facilities. Keys are provided allowing access to the guest house at all times. also a Free WiFi is Available in all rooms and Public Areas.",
             "roomsize": "20/MSQ, 215/FTSQ",
-            "amenities": [
+            "amenities": {
               "Free WiFi Internet",
               "Non-smoking",
               "Freeview TV",
@@ -260,12 +260,12 @@
               "Towels",
               "ToiletPaper and soap",
               "Hot water"
-            ]
+              }
           },
           "Standard-Double room-Ensuite": {
             "categorydescreption": "Enjoy easy access to popular shops and restaurants from this charming & centered place to stay, Very Close To the Beach. Standard-Double room-en-suite, Has an En-Suite bathroom with towels and toiletries, a TV and tea and coffee facilities. Keys are provided allowing access to the guest house at all times.…",
             "roomsize": "11/MSQ, 118/FTSQ",
-            "amenities": [
+            "amenities": {
               "Free WiFi Internet",
               "Non-smoking",
               "Freeview TV",
@@ -287,12 +287,12 @@
               "Towels",
               "ToiletPaper and soap",
               "Hot water"
-            ]
+              }
           },
           "Twin room-Standard-Ensuite": {
             "categorydescreption": "Standard-Twin room-Ensuite, Has an En-Suite bathroom with towels and toiletries, a TV and tea and coffee facilities. Keys are provided allowing access to the guest house at all times. also, Free WiFi is Available in all rooms and Public Areas.",
             "roomsize": "13/MSQ, 140/FTSQ",
-            "amenities": [
+            "amenities": {
               "Free WiFi Internet",
               "Non-smoking",
               "Freeview TV",
@@ -314,10 +314,10 @@
               "Towels",
               "ToiletPaper and soap",
               "Hot water"
-            ]
+              }
           }
         }
-      ],
+      ,
       "likeDislike": {
         "likes": 2,
         "dislikes": 1,
@@ -332,12 +332,12 @@
       "location": "7 Upper Rock Gardens,\nBrighton, BN2 1QE, United Kingdom",
       "profilePicture": "assets/images/Avalon/Avalon1.jpeg",
       "images": null,
-      "categories": [
+      "categories": 
         {
           "Deluxe-Double room-Ensuite": {
             "categorydescreption": "Deluxe-Double room-Ensuite has an En-Suite bathroom with towels and toiletries, a TV, and tea and coffee facilities. Keys are provided allowing access to the guest house at all times. also, Free WiFi is Available in all rooms and Public Areas.",
             "roomsize": "15/MSQ, 161/FTSQ",
-            "amenities": [
+            "amenities": {
               "Free WiFi Internet",
               "Non-smoking",
               "Freeview TV",
